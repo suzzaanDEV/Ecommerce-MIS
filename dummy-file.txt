@@ -1,0 +1,107 @@
+Commit 1: Fixed issue with displaying multiple payment options
+Commit 2: Added product options like size and color
+Commit 3: Added payment method options for different gateways
+Commit 4: Fixed issue with shipping price calculation
+Commit 5: Enhanced security for user passwords
+Commit 6: Fixed issue with product availability on checkout page
+Commit 7: Fixed issue with product stock quantity updates
+Commit 8: Refactored cart page for better layout
+Commit 9: Optimized images for faster load times
+Commit 10: Improved admin panel product search
+Commit 11: Added additional security features to the website
+Commit 12: Updated order API to support new status
+Commit 13: Fixed bug with coupon application logic
+Commit 14: Implemented responsive UI for mobile devices
+Commit 15: Implemented Khalti payment gateway integration
+Commit 16: Styled header section of the website
+Commit 17: Improved UI for order confirmation page
+Commit 18: Improved performance of the product listing page
+Commit 19: Fixed issue with empty cart display
+Commit 20: Improved error handling in order API
+Commit 21: Fixed issue with stock quantity on product page
+Commit 22: Improved product details page layout
+Commit 23: Fixed bug with shipping address selection
+Commit 24: Improved UI for order confirmation page
+Commit 25: Fixed bug in the order creation process
+Commit 26: Refactored user profile page UI
+Commit 27: Styled login and registration pages
+Commit 28: Fixed bug with shipping address selection
+Commit 29: Added support for guest checkout
+Commit 30: Added success and error notifications
+Commit 31: Implemented responsive UI for mobile devices
+Commit 32: Refactored product listing for faster rendering
+Commit 33: Updated product search functionality
+Commit 34: Fixed bug with coupon application logic
+Commit 35: Updated product details to show more information
+Commit 36: Added product review functionality
+Commit 37: Refactored Khalti payment integration code
+Commit 38: Updated order API to support new status
+Commit 39: Implemented discount functionality for products
+Commit 40: Updated admin dashboard to show recent orders
+Commit 41: Refactored Khalti payment logic for better integration
+Commit 42: Fixed bug with removing products from the cart
+Commit 43: Refactored shopping cart for better performance
+Commit 44: Added search by category functionality
+Commit 45: Refactored product listing for faster rendering
+Commit 46: Updated product search functionality
+Commit 47: Updated order details page for better clarity
+Commit 48: Refactored Khalti payment integration code
+Commit 49: Updated order API to support new status
+Commit 50: Improved layout for product pages
+Commit 51: Enhanced security for user passwords
+Commit 52: Fixed bug in the payment method selection
+Commit 53: Refactored order-related components
+Commit 54: Updated user authentication with two-factor authentication
+Commit 55: Fixed bug with coupon application logic
+Commit 56: Fixed issue with checkout payment options
+Commit 57: Updated footer section with relevant links
+Commit 58: Optimized images for faster load times
+Commit 59: Added order tracking feature
+Commit 60: Fixed issue with displaying multiple payment options
+Commit 61: Fixed issue with checkout payment options
+Commit 62: Updated admin dashboard to show recent orders
+Commit 63: Improved product details page layout
+Commit 64: Styled login and registration pages
+Commit 65: Added loading spinner during checkout
+Commit 66: Refactored product page for better UX
+Commit 67: Added additional security features to the website
+Commit 68: Improved accessibility for blind users
+Commit 69: Fixed bug with removing products from the cart
+Commit 70: Updated shipping options for better UX
+Commit 71: Implemented discount functionality for products
+Commit 72: Refactored Khalti payment integration code
+Commit 73: Fixed bug with user email validation
+Commit 74: Implemented responsive UI for mobile devices
+Commit 75: Fixed issue with product availability on checkout page
+Commit 76: Refactored checkout page UI
+Commit 77: Fixed bug with removing products from the cart
+Commit 78: Added product review functionality
+Commit 79: Updated checkout page design for better UX
+Commit 80: Refactored order processing logic
+Commit 81: Styled the shopping view UI
+Commit 82: Fixed minor UI bugs on the product page
+Commit 83: Fixed issue with tax calculation on checkout
+Commit 84: Fixed bug with removing products from the cart
+Commit 85: Refactored order status logic
+Commit 86: Added product options like size and color
+Commit 87: Implemented category filters in the product listing
+Commit 88: Refactored product page for better UX
+Commit 89: Fixed bug in the cart subtotal calculation
+Commit 90: Added user profile update feature
+Commit 91: Added loading spinner during checkout
+Commit 92: Refactored Redux store for better state management
+Commit 93: Integrated user authentication with JWT
+Commit 94: Implemented product sorting functionality
+Commit 95: Fixed issue with empty cart message
+Commit 96: Fixed bug with coupon application logic
+Commit 97: Styled buttons for better UX
+Commit 98: Fixed bug in the order creation process
+Commit 99: Added additional tests for user authentication
+Commit 100: Fixed minor UI bugs on the product page
+Commit 101: Fixed bug with user email validation
+Commit 102: Styled the shopping view UI
+Commit 103: Updated footer section with relevant links
+Commit 104: Refactored cart modal for better UI
+Commit 105: Styled header section of the website
+Commit 106: Updated footer section with relevant links
+Commit 107: Integrated user authentication with JWT

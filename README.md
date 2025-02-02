@@ -36,6 +36,7 @@ This project is a **practical implementation** for the **5th Semester BCA** cour
    ```bash
    Go to root
    cd client
+   npm install
    npm run dev
    ```  
 
